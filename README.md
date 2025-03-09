@@ -22,8 +22,6 @@ The page is optimized for user experience, with simple navigation, clear call-to
 
 # Usage of the E-Commerce Website
 
-Product Browsing:
-
 Users can easily browse through different categories and view product details like price, description, and images. The layout is designed to display products clearly and attractively, allowing customers to make informed decisions.
 Shopping Cart Functionality:
 
