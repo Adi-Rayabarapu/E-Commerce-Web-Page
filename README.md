@@ -2,7 +2,7 @@
 E-Commerce Website – a stylish and interactive online shopping platform designed with HTML, CSS, and JavaScript to provide users with an engaging and seamless shopping experience. This website offers a wide range of products, easy navigation, and an intuitive design for users to browse, shop, and make purchases online.
 
 # Features:
-Responsive Design
+
 The page is designed to be fully responsive, ensuring that it works seamlessly across various devices (desktop, tablet, mobile). This makes the shopping experience smooth for all users, regardless of their screen size.
 
 Product Display
